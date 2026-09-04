@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Welcome to my GitHub profile 👋🏻</h1>
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="170" style="border-radius: 50%;"/>
 </div>
 
 <h4 align="center">
